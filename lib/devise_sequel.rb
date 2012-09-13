@@ -1,3 +1,2 @@
-require 'devise'
-require 'sequel'
-require 'sequel-rails'
+# no effect
+# to use devise with sequel check README

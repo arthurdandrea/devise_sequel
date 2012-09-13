@@ -1,7 +1,7 @@
 Sequel mapping to Devise
 ========================
 
-**At least version 1.2.rc of Devise is required**
+**At least version 2.1.0 of Devise is required**
 
 Please report any issues!
 
@@ -10,9 +10,6 @@ Installation
 
     # bundler
     gem 'devise_sequel'
-
-Also, at the moment (0.0.3) please use the orm_adapter-sequel from my repository, which is a fork from the real project from elskwid: https://github.com/mooman/orm_adapter-sequel     
-This should be very temporary.
 
 You're going to need an ORM for rails also. Only sequel-rails has been tested to work this gem.
 

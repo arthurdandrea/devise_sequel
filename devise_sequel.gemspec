@@ -15,5 +15,5 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_dependency "orm_adapter-sequel"
-  s.add_dependency "devise", '>= 1.2.rc'
+  s.add_dependency "devise", '>= 2.1.0'
 end
